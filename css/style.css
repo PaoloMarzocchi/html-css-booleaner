@@ -55,3 +55,39 @@ p > span {
 ul{
     margin-top: 20px;
 }
+
+table{
+    margin-top: 20px;
+}
+#intestazione_tab{
+    background-color: #23aae5;
+    color: white;
+}
+
+.riga_colorata{
+    background-color: lightblue;
+}
+
+h4{
+    color: #8c8c8c;
+}
+#interessi_monitor{
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: large;
+}
+
+#interessi_graph{
+    margin-top: 10px;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: large;
+}
