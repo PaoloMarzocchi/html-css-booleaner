@@ -23,3 +23,24 @@ header > img{
     bottom: 0;
     left: 0;
 }
+
+#titolo_articolo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#titolo_articolo > div{
+    color: #8c8c8c;
+}
+#autore_articolo{
+    color: #23aae5;
+}
+
+#data_articolo{
+    font-size: small;
+}
+
+#sezione_foto > div{
+    font-size: small;
+    font-style: italic;
+}
