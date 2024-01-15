@@ -44,3 +44,13 @@ header > img{
     font-size: small;
     font-style: italic;
 }
+p{
+    margin-top: 20px;
+}
+p > span {
+    background-color: yellow;
+}
+
+ul{
+    margin-top: 20px;
+}
